@@ -1,4 +1,7 @@
 # fast.ai.learning
 ## Keep track of ML learning
 
-- [ ] read docus and add more todos
+- [x] read docus and get started
+- [x] add more todos for next steps
+- [ ] setup Kaggle
+- [ ] setup Jupyter Notebook
