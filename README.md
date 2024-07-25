@@ -1,2 +1,4 @@
 # fast.ai.learning
-keep track of ML learning
+## Keep track of ML learning
+
+- [ ] read docus and add more todos
